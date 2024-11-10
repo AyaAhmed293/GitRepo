@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\models\\classcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\models\\classcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\views\\dept\\savedept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\views\\dept\\savedept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\repo\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\repo\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|c:\\users\\yahoo\\source\\repos\\webapplication19\\webapplication19\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ADCB83-B745-4B08-8FDC-526014BB9A6D}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "classContext.cs",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Models\\classContext.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Models\\classContext.cs",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Models\\classContext.cs",
+              "RelativeToolTip": "WebApplication19\\Models\\classContext.cs",
+              "ViewState": "AQIAAAkAAABAMzMzM7MQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:05:43.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveDept.cshtml",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Views\\Dept\\SaveDept.cshtml",
+              "RelativeDocumentMoniker": "WebApplication19\\Views\\Dept\\SaveDept.cshtml",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Views\\Dept\\SaveDept.cshtml",
+              "RelativeToolTip": "WebApplication19\\Views\\Dept\\SaveDept.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:13:50.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Program.cs",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Program.cs",
+              "RelativeToolTip": "WebApplication19\\Program.cs",
+              "ViewState": "AQIAAAIAAADwZWZmZmYWwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:15:31.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Repo\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Repo\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Repo\\IStudentRepo.cs",
+              "RelativeToolTip": "WebApplication19\\Repo\\IStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:02:01.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentController.cs",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\studentController.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Controllers\\studentController.cs",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\studentController.cs",
+              "RelativeToolTip": "WebApplication19\\Controllers\\studentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:52:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "studentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Repo\\studentRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Repo\\studentRepo.cs",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Repo\\studentRepo.cs",
+              "RelativeToolTip": "WebApplication19\\Repo\\studentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:19:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Controllers\\RouteController.cs",
+              "ToolTip": "C:\\Users\\yahoo\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "WebApplication19\\Controllers\\RouteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:38:56.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

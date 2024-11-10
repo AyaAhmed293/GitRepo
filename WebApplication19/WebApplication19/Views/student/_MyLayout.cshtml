@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div style="height:100px; width:100% ;background-color:red">Header</div>
+    <div  style="display:flex ;height:800px; width:100% ;background-color:red">Menu</div>
+    <div>
+        @RenderSection("menusection",false);
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <div style="height:100px; width:100% ;background-color:red">Footer</div>
+
+</body>
+</html>

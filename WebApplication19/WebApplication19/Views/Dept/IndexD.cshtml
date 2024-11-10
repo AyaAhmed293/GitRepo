@@ -1,0 +1,18 @@
+﻿<table class="table table-bordred table-hover">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>Name</th>
+    </tr>
+    @foreach (var x in @Model)
+    {
+       
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.Name</td>
+
+            </tr>
+    }
+</table>
+<a href="\Dept\NewDept" class="btn btn-success"> Create</a>

@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication19
+build_property.RootNamespace = WebApplication19
+build_property.ProjectDir = C:\Users\yahoo\source\repos\WebApplication19\WebApplication19\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yahoo\source\repos\WebApplication19\WebApplication19
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/dept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxkZXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/IndexD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxJbmRleEQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/NewDept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxOZXdEZXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxyZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/SaveDept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxTYXZlRGVwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Dept/TestEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxUZXN0RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Shared/_ADVLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BRFZMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Shared/_DeptCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZXB0Q2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Shared/_NavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/student/GetStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudFxHZXRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/student/std.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudFxzdGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/student/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudFxfTXlMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yahoo/source/repos/WebApplication19/WebApplication19/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hzyaqdenrs

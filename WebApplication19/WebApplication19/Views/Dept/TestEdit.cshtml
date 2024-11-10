@@ -1,0 +1,18 @@
+﻿@model List<Department>
+<table class="table table-bordered table-hover">
+@foreach (var x in @Model)
+{
+    <tr>
+     <td> <a href="#" onclick="GetData(@x.Id)"></a>@x.Name</td>
+    </tr>
+    
+}
+</table>
+@section Scripts
+{
+    <script>
+        function GetData(id) { 
+            event.preventDefault();
+        }
+    </script>
+}
